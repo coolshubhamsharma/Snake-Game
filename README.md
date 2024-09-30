@@ -7,3 +7,4 @@ Link - <a href="https://snake-game-on-you.netlify.app/"> Snake-Game </a>
 </p >
 
 
+TechStack:- HTML , JAVASCRIPT
